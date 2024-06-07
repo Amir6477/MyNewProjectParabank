@@ -1,0 +1,26 @@
+2024-06-04 16:33:03,173 - org.openqa.selenium.edge.EdgeDriver -INFO - Registration link activity is compeleted
+2024-06-04 16:33:03,351 - org.openqa.selenium.edge.EdgeDriver -INFO - Firstname is entered
+2024-06-04 16:33:03,474 - org.openqa.selenium.edge.EdgeDriver -INFO - Lastname is entered
+2024-06-04 16:33:03,585 - org.openqa.selenium.edge.EdgeDriver -INFO - Address is entered
+2024-06-04 16:33:03,733 - org.openqa.selenium.edge.EdgeDriver -INFO - City is entered
+2024-06-04 16:33:03,821 - org.openqa.selenium.edge.EdgeDriver -INFO - State is entered
+2024-06-04 16:33:03,903 - org.openqa.selenium.edge.EdgeDriver -INFO - Zipcode is entered
+2024-06-04 16:33:04,033 - org.openqa.selenium.edge.EdgeDriver -INFO - phonenumber is entered
+2024-06-04 16:33:04,119 - org.openqa.selenium.edge.EdgeDriver -INFO - SSN is entered
+2024-06-04 16:33:04,225 - org.openqa.selenium.edge.EdgeDriver -INFO - Username is entered
+2024-06-04 16:33:04,327 - org.openqa.selenium.edge.EdgeDriver -INFO - password is entered
+2024-06-04 16:33:04,419 - org.openqa.selenium.edge.EdgeDriver -INFO - confirm password is entered
+2024-06-04 16:33:07,323 - org.openqa.selenium.edge.EdgeDriver -INFO - Registration button activity is compeleted
+2024-06-04 16:35:16,428 - org.openqa.selenium.edge.EdgeDriver -INFO - Registration link activity is compeleted
+2024-06-04 16:35:16,593 - org.openqa.selenium.edge.EdgeDriver -INFO - Firstname is entered
+2024-06-04 16:35:16,701 - org.openqa.selenium.edge.EdgeDriver -INFO - Lastname is entered
+2024-06-04 16:35:16,770 - org.openqa.selenium.edge.EdgeDriver -INFO - Address is entered
+2024-06-04 16:35:16,917 - org.openqa.selenium.edge.EdgeDriver -INFO - City is entered
+2024-06-04 16:35:17,014 - org.openqa.selenium.edge.EdgeDriver -INFO - State is entered
+2024-06-04 16:35:17,134 - org.openqa.selenium.edge.EdgeDriver -INFO - Zipcode is entered
+2024-06-04 16:35:17,274 - org.openqa.selenium.edge.EdgeDriver -INFO - phonenumber is entered
+2024-06-04 16:35:17,357 - org.openqa.selenium.edge.EdgeDriver -INFO - SSN is entered
+2024-06-04 16:35:17,522 - org.openqa.selenium.edge.EdgeDriver -INFO - Username is entered
+2024-06-04 16:35:17,614 - org.openqa.selenium.edge.EdgeDriver -INFO - password is entered
+2024-06-04 16:35:17,699 - org.openqa.selenium.edge.EdgeDriver -INFO - confirm password is entered
+2024-06-04 16:35:18,291 - org.openqa.selenium.edge.EdgeDriver -INFO - Registration button activity is compeleted
